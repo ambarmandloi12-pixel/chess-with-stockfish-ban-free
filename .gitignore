@@ -1,0 +1,11 @@
+__pycache__/
+_pycache_/
+Include/
+Scripts/
+testingdir/
+Lib/
+boss.txt
+fa.py
+main.py
+*.cfg
+*.exe
